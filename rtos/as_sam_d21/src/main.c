@@ -257,7 +257,7 @@ void tarefa_9(void)
     for(;;)
     {
         contador++;
-        // faz alguma coisa aqui
-        TarefaEspera(500);  // espera 500ms
+		
+        TarefaEspera(100);  // espera 500ms
     }
 }
